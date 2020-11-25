@@ -8,4 +8,6 @@ public class SingletonMain {
     private void lazySingleton(){
 
     }
+
+
 }
